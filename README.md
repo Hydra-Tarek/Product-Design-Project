@@ -1,4 +1,4 @@
-
+Markdown symbols like emojis and special characters can sometimes cause formatting issues in certain contexts. However, if you prefer to keep them, here is the README content with the symbols included:
 
 # 🔒 RFID Door Security System with Temperature Sensor
 
@@ -31,10 +31,10 @@ This project implements a secure and efficient door locking system using RFID (R
 ## 💰 Total Cost: ~3540 TK
 
 ## 📊 Features & Benefits
-**✔ Increased Security:** Unique RFID access for authorized users
-**✔ Contactless Operation:** No need for keys or manual passwords
-**✔ Temperature-Based Access Control:** Restricts entry if the user's temperature is elevated
-**✔ Real-Time Feedback:** LCD display shows access status and temperature readings
+- **✔ Increased Security:** Unique RFID access for authorized users
+- **✔ Contactless Operation:** No need for keys or manual passwords
+- **✔ Temperature-Based Access Control:** Restricts entry if the user's temperature is elevated
+- **✔ Real-Time Feedback:** LCD display shows access status and temperature readings
 
 ## ❌ Drawbacks & Limitations
 - Higher cost compared to traditional locking systems
