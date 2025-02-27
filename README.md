@@ -1,4 +1,3 @@
-Markdown symbols like emojis and special characters can sometimes cause formatting issues in certain contexts. However, if you prefer to keep them, here is the README content with the symbols included:
 
 # 🔒 RFID Door Security System with Temperature Sensor
 
@@ -40,3 +39,10 @@ This project implements a secure and efficient door locking system using RFID (R
 - Higher cost compared to traditional locking systems
 - Requires technical expertise for setup and maintenance
 - Privacy concerns related to storing RFID and temperature data
+
+## 🚀 Future Improvements
+- WiFi/Bluetooth Integration for remote access control
+- Logging & Monitoring System to track access history
+- Facial Recognition Module for multi-layer security
+
+
