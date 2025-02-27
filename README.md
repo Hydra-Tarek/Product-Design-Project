@@ -31,10 +31,10 @@ This project implements a secure and efficient door locking system using RFID (R
 ## 💰 Total Cost: ~3540 TK
 
 ## 📊 Features & Benefits
-- **✔ Increased Security:** Unique RFID access for authorized users
-- **✔ Contactless Operation:** No need for keys or manual passwords
-- **✔ Temperature-Based Access Control:** Restricts entry if the user's temperature is elevated
-- **✔ Real-Time Feedback:** LCD display shows access status and temperature readings
+**✔ Increased Security:** Unique RFID access for authorized users
+**✔ Contactless Operation:** No need for keys or manual passwords
+**✔ Temperature-Based Access Control:** Restricts entry if the user's temperature is elevated
+**✔ Real-Time Feedback:** LCD display shows access status and temperature readings
 
 ## ❌ Drawbacks & Limitations
 - Higher cost compared to traditional locking systems
